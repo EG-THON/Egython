@@ -14,6 +14,8 @@
 
 
   
-## قناه السورس 🇪🇬.
-   <a href="https://t.me/Egython"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
- - Installations User Bot (Egython)
+### قناه السورس وجروب الدعم.
+<a href="https://t.me/Egython"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Group_Egython"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
